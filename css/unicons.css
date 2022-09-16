@@ -1056,3 +1056,11 @@
 .uil-yen:before { content: '\ebe6'; } /* '' */
 .uil-youtube-alt:before { content: '\ebe7'; } /* '' */
 .uil-youtube:before { content: '\ebe8'; } /* '' */
+/* Murat'ın Koduna Hoş Geldiniz */
+.custom-btn-murat{
+    padding: 10px 20px !important;
+    float: right;
+    width: 300px;
+    text-align: center;
+}
+/* Murat'ın Kodundan Gidiyorsunuz */
